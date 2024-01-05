@@ -122,8 +122,8 @@ class _splashScreenState extends State<splashScreen> {
       if (true) {
         // if(role == 'customer'){
 
-        Navigator.pushReplacement(context,
-            MaterialPageRoute(builder: (context) => afterWelcomeScr()));
+        Navigator.pushReplacement(
+            context, MaterialPageRoute(builder: (context) => Dashboard()));
       }
     } else {
       Navigator.pushReplacement(
