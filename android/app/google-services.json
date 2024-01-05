@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "793730222881",
+    "project_id": "book-a-bite-9496c",
+    "storage_bucket": "book-a-bite-9496c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:793730222881:android:dfd9b052560c23fdf90c60",
+        "android_client_info": {
+          "package_name": "com.example.bookabite"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_DhNvaUY7TidJ0EbBcUeWZN8A9aP5Kck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
