@@ -1,6 +1,6 @@
-# bookabite
+# BookaBite
 
-A new Flutter project.
+A new Flutter App.
 
 ## Getting Started
 
